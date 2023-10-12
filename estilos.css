@@ -1,0 +1,17 @@
+*{ 
+margin: 0;   
+padding: 0;
+}
+
+/* Body */
+body {background-color: blueviolet;
+}
+
+/* Header */
+
+header {border-bottom: 1px solid black;
+        text-align: center;
+        padding: 10px 20px;
+}
+
+.logo {width: 150px;}
